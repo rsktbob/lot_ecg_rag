@@ -1,4 +1,4 @@
-# RAG 系統（CSV + PDF + FAISS + Ollama + LangChain）
+# RAG 系統（FAISS + Ollama + LangChain）
 
 本專案實作一個簡易的 **RAG（Retrieval-Augmented
 Generation）系統**，支援：
